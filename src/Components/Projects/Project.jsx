@@ -30,13 +30,13 @@ export default function Project() {
               <div className=" d-flex justify-content-center flex-column align-items-center">
                   <ul class="nav justify-content-center">
                   <li class="nav-item">
-                    <Link class="nav-link colors border  rounded-start rounded-0 py-3 px-5 text-light  fs-5 tab" aria-current="page" to="/Tab1">Tab1</Link>
+                    <Link class="nav-link colors border  rounded-start rounded-0 py-3 px-md-4 px-sm-3 text-light  fs-5 tab" aria-current="page" to="/Tab1">Tab1</Link>
                   </li>
                   <li class="nav-item">
-                    <Link class="nav-link btn border rounded-0 py-3 px-5 text-light fs-5 tab" to="/Tab2">Tab2</Link>
+                    <Link class="nav-link btn border rounded-0 py-3 px-md-4 px-sm-3 text-light fs-5 tab" to="/Tab2">Tab2</Link>
                   </li>
                   <li class="nav-item">
-                    <Link class="nav-link border rounded-end rounded-0 py-3 px-5 text-light fs-5 tab" to="/Tab3">Tab3</Link>
+                    <Link class="nav-link border rounded-end rounded-0 py-3 px-md-4 px-sm-3 text-light fs-5 tab" to="/Tab3">Tab3</Link>
                   </li>
                 </ul>
                   <div className=' text-center w-100'>
